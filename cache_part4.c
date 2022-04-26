@@ -1,14 +1,3 @@
-/**
- * @file cache_part4.c
- * author Yujia Zhai (yzhai015@ucr.edu)
- * @brief 
- * @version 0.1
- * @date 2019-10-08
- * 
- * @copyright Copyright (c) 2019
- * 
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
